@@ -1,0 +1,3 @@
+A aplicação consiste em um dashboard onde lojistas que possuem restaurantes dentro de uma plataforma de delivery podem acompanhar diversas métricas importantes do restaurante. Isso inclui o número de pedidos mensais e diários, gráficos para uma melhor visualização dos dados, quantidade de pedidos cancelados, e a capacidade de acompanhar individualmente cada pedido, incluindo detalhes específicos e a possibilidade de alterar o status de cada um.
+
+O Dashboard foi desenvolvido sem o uso de nenhum framework, utilizando apenas React puro, e estilizado com Tailwind CSS e Shadcn/UI. O frontend está integrado com uma API utilizando React Query. A API que está sendo utilizada é baseada em Bun.
